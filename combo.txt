@@ -1,0 +1,3 @@
+# Example email:password combos
+# Format: email:password
+# One per line
